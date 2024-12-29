@@ -29,7 +29,9 @@ pip install -r requirements.txt
 bash
 Copy code
 git clone https://github.com/nguyenhoangnb/iot_app_control_robot.git
-cd your-repository-name
+    ```bash
+    cd iot_app_control_robot
+    ```
 2. Install the Dependencies
   
     ```bash
