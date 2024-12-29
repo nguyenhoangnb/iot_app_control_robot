@@ -1,4 +1,3 @@
 PyQt5
 paho-mqtt
-sqlite3
-pyqt5-tool
+pyqt5-tools
